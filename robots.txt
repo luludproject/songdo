@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://incheon.jianhomecare.com/sitemap.xml
+Sitemap: https://michuhol.jianhomecare.com/sitemap.xml
